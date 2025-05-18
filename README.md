@@ -1,1 +1,5 @@
-
+streamlit 
+matplotlib
+colour-science
+numpy
+pandas
